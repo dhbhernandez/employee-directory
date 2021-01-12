@@ -18,8 +18,8 @@ class OmdbContainer extends Component {
     this.searchContacts();
   }
 
-  searchContacts = query => {
-    API.search(query)
+  searchContacts = () => {
+    API.search()
       .then(res => this.setState({ result: res.data.results }))
       .catch(err => console.log(err));
   };
@@ -40,6 +40,10 @@ class OmdbContainer extends Component {
     this.searchContacts(this.state.search);
   };
 
+  handleLastName = () => {
+    console.log('result',this.state.result)
+  }
+
   render() {
 
     console.log('state', this.state.result)
@@ -49,7 +53,7 @@ class OmdbContainer extends Component {
           <tr>
             <th>Photo</th>
             <th>Firstname</th>
-            <th>Lastname</th>
+            <th onClick={this.handleLastName}>Lastname</th>
             <th>Age</th>
           </tr>
 
