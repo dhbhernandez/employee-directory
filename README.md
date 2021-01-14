@@ -25,7 +25,7 @@ Techologies:
 ​
 ​
 ## Usage 
-[![Watch the video](https://github.com/dhbhernandez/budget-trackers/blob/main/budget-tracker.png)](https://youtu.be/g_viRB1ay1g)
+[![Watch the video](https://github.com/dhbhernandez/employee-directory/blob/main/image/Employee-directory.png)](https://youtu.be/g_viRB1ay1g)
 ​
 ## License
     MIT
