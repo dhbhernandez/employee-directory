@@ -100,7 +100,7 @@ class OmdbContainer extends Component {
           <div class="container">
             <h1 class="display-4">Employee Directory</h1>
             <p class="lead">Search or sort employee by last name.
-            .</p>
+            </p>
           </div>
         </div>
         <input className="form-control mr-sm-2" onChange={this.handleLastName} placeholder="search"></input>
