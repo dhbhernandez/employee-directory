@@ -10,7 +10,7 @@
 * [Questions](#Questions)
 ​
 ## Description 
-it is a Budget Tracker that helps you track your spending.
+It is an app created to search the employees information.
 
 ## Instructions
 * go to to the website 
@@ -20,12 +20,13 @@ Techologies:
     - Node JS
     - VS-Code Editor
     - GitHUb Repository
+    - React
     - npm packages
     
 ​
 ​
 ## Usage 
-[![Watch the video](https://github.com/dhbhernandez/employee-directory/blob/main/image/Employee-directory.png)](https://youtu.be/g_viRB1ay1g)
+[![Watch the video](https://github.com/dhbhernandez/employee-directory/blob/main/image/Employee-directory.png)]
 ​
 ## License
     MIT
