@@ -26,7 +26,7 @@ Techologies:
 ​
 ​
 ## Usage 
-[![Watch the video](https://github.com/dhbhernandez/employee-directory/blob/main/image/Employee-directory.png)]
+[![Watch the video](https://github.com/dhbhernandez/employee-directory/blob/main/image/Employee-directory.png)](https://dhbhernandez.github.io/employee-directory/)
 ​
 ## License
     MIT
